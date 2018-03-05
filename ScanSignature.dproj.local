@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/04 23:53:02.000.128,=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/04 23:54:25.000.655,=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/03/04 23:54:59.000.854,C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\SigScan.pas</Transaction>
+    <Transaction>2018/03/04 23:56:03.000.589,C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>2018/03/04 23:56:03.000.589,C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\main.pas</Transaction>
+    <Transaction>2018/03/04 23:57:17.000.112,C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\main.pas=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\SigScan\main.pas</Transaction>
+    <Transaction>2018/03/04 23:57:17.000.112,C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\main.dfm=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\SigScan\main.dfm</Transaction>
+    <Transaction>2018/03/04 23:57:20.000.038,C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\SigScan.pas=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\SigScan\SigScan.pas</Transaction>
+    <Transaction>2018/03/04 23:57:24.000.498,C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\SigScan\Project1.dproj</Transaction>
+    <Transaction>2018/03/05 18:25:08.396,C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\SigScan\ScanSignature.dproj=C:\Users\KenzoX7\Documents\Embarcadero\Studio\Projects\SigScan\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
